@@ -44,7 +44,7 @@ plt.plot(x,wa,color="Red")
 plt.show()
 
 ## Output:
-![best fit line](WhatsApp Image 2023-03-17 at 2.35.20 PM.jpeg)
+![best fit line](WhatsApp Image 2023-03-17 at 2.35.20 PM.JPEG)
 
 
 ## Result:
